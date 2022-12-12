@@ -34,3 +34,6 @@ To change the number of clusters: change the line ncomp=5 to a number between 2 
 ![Image text](https://github.com/Fei79/EC504-Project/blob/main/Output/flowers-kmeans.png?raw=true)
 
 ### Image segementation by Gaussian Mixture:
+![Image text](https://github.com/Fei79/EC504-Project/blob/main/Output/Picture1.png?raw=true)
+![Image text](https://github.com/Fei79/EC504-Project/blob/main/Output/Picture2.png?raw=true)
+![Image text](https://github.com/Fei79/EC504-Project/blob/main/Output/Picture3.png?raw=true)
