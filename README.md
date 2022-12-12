@@ -39,10 +39,8 @@ Result:
 ![Image text](https://github.com/Fei79/EC504-Project/blob/main/Output/dog-kmeans.png?raw=true)
 ![Image text](https://github.com/Fei79/EC504-Project/blob/main/Output/flowers-kmeans.png?raw=true)
 
-### Image segementation by Gaussian Mixture:
-Original image: 
-![Image text](https://github.com/Fei79/EC504-Project/blob/main/Input/horse.jpg?raw=true)  
-Result:
+### Image segementation by Gaussian Mixture:  
+Result:  
 ![Image text](https://github.com/Fei79/EC504-Project/blob/main/Output/Picture1.png?raw=true)
 ![Image text](https://github.com/Fei79/EC504-Project/blob/main/Output/Picture2.png?raw=true)
 ![Image text](https://github.com/Fei79/EC504-Project/blob/main/Output/Picture3.png?raw=true)
