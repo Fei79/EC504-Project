@@ -8,7 +8,7 @@ int main()
     int sink_x = 25;
     int sink_y = 25;
 
-    string imageName = "C:\Users\85422\Desktop\EC504project\EC504project";
+    string imageName = "c.jpg";
     
     IG img(imageName);
     cv::Mat dest;
@@ -16,7 +16,7 @@ int main()
     img.image = dest;
     img.Image_To_Flow_Graph(src_x, src_y, sink_x, sink_y);
 
-    string outfile("E:/desktop/project2/output/output2.png");
+    string outfile("output.jpg");
     cout << outfile << endl;
 
     EK ek(img.flow_graph);
