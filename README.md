@@ -27,6 +27,7 @@ To change the number of clusters: change the line ncomp=5 to a number between 2 
 ## Result
 ### Image segementation by Maxflow:
 ![Image text](https://github.com/Fei79/EC504-Project/blob/main/Output/Flower%20output.jpg?raw=true)
-![Image text]()
+![Image text](https://github.com/Fei79/EC504-Project/blob/main/Output/Man%20output.jpg?raw=true)
+
 ### Image segementation by Kmeans:
 ![Image text](https://github.com/Fei79/EC504-Project/blob/main/Output/dog-kmeans.png?raw=true)
